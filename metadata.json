@@ -1,0 +1,6 @@
+{
+  "name": "Friends Monthly Fund Management System",
+  "description": "A comprehensive, modern full-stack web application for groups of friends to track monthly contributions, handle expenses, calculate dues, view real-time reports, and secure panel access.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
